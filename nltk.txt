@@ -1,4 +1,4 @@
 wordnet
 stopwords
-word_tokenize
-sent_tokenize
+punkt
+pros_cons
